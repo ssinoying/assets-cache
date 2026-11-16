@@ -1,6 +1,12 @@
 {
-  "version": "0.0.0",
-  "url": "",
-  "sha256": "",
-  "signature": ""
+  "version": "0.1.1",
+  "url": "https://github.com/ssinoying/assets-cache/releases/download/v0.1.1/FlixTV-0.1.1.dmg",
+  "sha256": "4e0ab98a29cc90c796a91b0ec3180e6434b1acb77c2874adc554319f0d6860a8",
+  "signature": "LnN/H0KwS8BeOsW1hveZJuWHs7NaZ2u3lMoWOeL9KUIZ5ppg77P6CaWx46DDo7FDxI9K76M2JgxJpdSQyYnUCQ==",
+  "notes": "- Thêm giao diện trang cài đặt.",
+  "date": "2026-11-16",
+  "history": [
+    { "version": "0.1.1", "date": "2026-11-16", "notes": "- Thêm giao diện trang cài đặt." },
+    { "version": "0.0.0", "date": "", "notes": "" }
+  ]
 }
