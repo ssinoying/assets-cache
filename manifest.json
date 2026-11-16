@@ -1,11 +1,12 @@
 {
-  "version": "0.1.1",
-  "url": "https://github.com/ssinoying/assets-cache/releases/download/v0.1.1/FlixTV-0.1.1.dmg",
-  "sha256": "4e0ab98a29cc90c796a91b0ec3180e6434b1acb77c2874adc554319f0d6860a8",
-  "signature": "LnN/H0KwS8BeOsW1hveZJuWHs7NaZ2u3lMoWOeL9KUIZ5ppg77P6CaWx46DDo7FDxI9K76M2JgxJpdSQyYnUCQ==",
-  "notes": "- Thêm giao diện trang cài đặt.",
+  "version": "0.1.2",
+  "url": "https://github.com/ssinoying/assets-cache/releases/download/v0.1.2/FlixTV-0.1.2.zip",
+  "sha256": "1a93836372898594418d3b07be2ea20706fea56b5d015552ea5669c679316282",
+  "signature": "XLA+ro+AbEK1av8ZQtr1C2f+xvXepNoLdLeeTHRz7EPMPikR8zGXhtY5xWsHeUZNe92qlqcImMTXKA1gTgi9DA==",
+  "notes": "Thêm trang cài đặt\nTự cập nhật trong app (không cần kéo thả)",
   "date": "2026-11-16",
   "history": [
+    { "version": "0.1.2", "date": "2026-11-16", "notes": "Thêm trang cài đặt\nTự cập nhật trong app (không cần kéo thả)" },
     { "version": "0.1.1", "date": "2026-11-16", "notes": "- Thêm giao diện trang cài đặt." },
     { "version": "0.0.0", "date": "", "notes": "" }
   ]
