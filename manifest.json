@@ -1,11 +1,12 @@
 {
-  "version": "0.1.7",
-  "url": "https://github.com/ssinoying/assets-cache/releases/download/v0.1.7/FlixTV-0.1.7.zip",
-  "sha256": "1ea45b4fa6ca6ecd6011c50712a2265c4f504813585d48c39ace48058784577b",
-  "signature": "Vd0HToJwYV+aotHzo37QEG/m3ot2SrXLuU1BmjQNw/JGV2UrrZtWZBZ140e1c5At6X0pEY2VYgTBBYt1JwxbDg==",
-  "notes": "cải thiện ui/ux",
+  "version": "0.1.8",
+  "url": "https://github.com/ssinoying/assets-cache/releases/download/v0.1.8/FlixTV-0.1.8.zip",
+  "sha256": "3f4e9ab06e40bf1f24a787b47dfe0531ecc8579473fb5efbe290736c3cee92d5",
+  "signature": "gt0j0jsR5B945biEydll5Dw2e01rubhoUL4WJ+kYyD53tzY0TQimh04wZSuuUJVAh0fxbfF0tGdTNmFL9+VEAw==",
+  "notes": "fix bug",
   "date": "2026-11-27",
   "history": [
+    { "version": "0.1.8", "date": "2026-11-27", "notes": "fix bug" },
     { "version": "0.1.7", "date": "2026-11-27", "notes": "cải thiện ui/ux" },
     { "version": "0.1.6", "date": "2026-11-18", "notes": "- Fix bug, cải thiện hiệu năng." },
     { "version": "0.1.5", "date": "2026-11-18", "notes": "- Fix bug, cải thiện hiệu năng.\n- Thêm tìm kiếm diễn viên." },
